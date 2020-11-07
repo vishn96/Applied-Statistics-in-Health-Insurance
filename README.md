@@ -21,7 +21,6 @@ Leveraging customer information is paramount formost businesses. In the case of 
 - Hypothesis testing
 
 ## Objective: 
-
 We want to see if we can dive deep into this data to find some valuable insights.
 
 ## Steps and tasks:
